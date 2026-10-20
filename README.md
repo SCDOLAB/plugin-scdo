@@ -1,6 +1,6 @@
 # plugin-scdo (SCDO x402 for ElizaOS)
 
-![SCDO x402](images/banner.png)
+![SCDO x402](https://raw.githubusercontent.com/SCDOLAB/plugin-scdo/main/assets/banner.png)
 
 ElizaOS v1 plugin that gives an Eliza agent its own SCDO x402 wallet (USDC on Base), signed heartbeats and booked income on the SCDO Agent Ledger. SCDO is a bookkeeping ledger service for AI agents. Free, MIT licence.
 
