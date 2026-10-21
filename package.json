@@ -1,6 +1,6 @@
 {
   "name": "@scdo/plugin-scdo",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "SCDO x402 for ElizaOS: a per-agent wallet (USDC on Base via x402), signed heartbeats and booked income on the SCDO Agent Ledger, a bookkeeping ledger service.",
   "license": "MIT",
   "type": "module",
@@ -50,7 +50,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "scdo-agent-mcp": "https://github.com/SCDOLAB/scdo-agent-plugins/releases/download/v0.1.0/scdo-agent-mcp-0.1.0.tgz"
+    "scdo-agent-mcp": "https://github.com/SCDOLAB/scdo-agent-plugins/releases/download/v0.1.1/scdo-agent-mcp-0.1.1.tgz"
   },
   "peerDependencies": {
     "@elizaos/core": "^1.0.0"
