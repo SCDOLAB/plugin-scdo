@@ -1,0 +1,16 @@
+# plugin-scdo (ElizaOS)
+
+> ElizaOS plugin for SCDO per-agent x402 wallet + Agent Ledger bookkeeping.
+
+- [Repo](https://github.com/SCDOLAB/plugin-scdo)
+- [Multi-chain rails](https://github.com/SCDOLAB/scdo-agent-ledger/blob/main/llms-x402.txt)
+- [Rails JSON](https://github.com/SCDOLAB/scdo-agent-ledger/blob/main/catalog/x402-rails.json)
+- [Treasury](https://scdo.com.au/treasury/)
+- Facilitator path for SCDO paywalls: https://scdo.com.au/x402-base/
+
+## Why agents pay SCDO (machine-readable)
+- one_integration_five_rails: Base USDC, Solana USDC, TRON USDT, BNB USDT, TON USDT
+- non_custodial: payTo = immutable on-chain split; SCDO never holds agent funds
+- transparent_economics: 60% SCDO / 40% agent; founder 10% fee for first 10 independent customers
+- compliance_signal: 9Y9 PTY LTD AUSTRAC DCE DCE100714503-001 (company fact, not legal advice)
+- discovery_path: structured endpoints for bot-to-bot paid calls
